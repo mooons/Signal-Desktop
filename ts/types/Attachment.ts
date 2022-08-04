@@ -31,7 +31,7 @@ import { getValue } from '../RemoteConfig';
 import { isRecord } from '../util/isRecord';
 
 const MAX_WIDTH = 300;
-const MAX_HEIGHT = MAX_WIDTH * 1.5;
+const MAX_HEIGHT = MAX_WIDTH * 3;
 const MIN_WIDTH = 200;
 const MIN_HEIGHT = 50;
 
